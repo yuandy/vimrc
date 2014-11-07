@@ -425,3 +425,4 @@ function! <SID>BufcloseCloseIt()
    endif
 endfunction
 set number
+
